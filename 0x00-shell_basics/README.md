@@ -1,1 +1,1 @@
-moving of files starting with upper case
+deleting emacs files
