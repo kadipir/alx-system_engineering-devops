@@ -1,1 +1,1 @@
-going back to the previous directory
+listing files in current directory parent directory and /boot
