@@ -1,1 +1,1 @@
-printing effective usernmae of the current user
+groups the current user is part of
