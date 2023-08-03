@@ -1,1 +1,1 @@
-giving permission to user categories
+mode mirroring
