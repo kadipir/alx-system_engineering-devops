@@ -1,1 +1,1 @@
-giving and denying permissions
+giving permission to user categories
