@@ -1,1 +1,1 @@
-changing the user
+printing effective usernmae of the current user
