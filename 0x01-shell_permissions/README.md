@@ -1,1 +1,1 @@
-giving multiole permissions
+giving and denying permissions
