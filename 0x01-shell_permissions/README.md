@@ -1,1 +1,1 @@
-giving execution rights
+giving multiole permissions
