@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h towel.blinkenlights.nl
+telnet towel.blinkenlights.nl
