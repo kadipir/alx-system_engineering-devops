@@ -1,1 +1,1 @@
-deleting files
+printing ddirecries and subdirectories
